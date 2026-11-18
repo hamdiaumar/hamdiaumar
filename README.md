@@ -1,4 +1,4 @@
-# Hamdia-Umar
+# hamdiaumar
 # Hi, I'm Hamdia Umar 👋
 
 **Founder | Product Strategist | Technology Builder**
